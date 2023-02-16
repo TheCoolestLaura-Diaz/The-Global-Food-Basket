@@ -11,6 +11,7 @@ roughly sixty years ago. This report outlines the findings from the project and 
 
 ### II. Data and Methodology
 
+The data I used for my analysis come from Our World in Data datasets. Using excel, I cleaned out a spreadsheet of the agricultural production of each crop, measured in tons, for major regions of each continent for the years 1961 and 2018. Then, I imported this spreadsheet to MySQL for the fun work to begin. I uploaded SQL code repositories for those interested in taking a deeper look at the code that gave me global percentages for each crop and region, and net changes between 1961 and 2018.
 
 ### III. Analysis
 
