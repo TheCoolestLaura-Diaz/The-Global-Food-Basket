@@ -1,7 +1,7 @@
 # Report of the Findings from The Global Food Basket
 🍎🥑🍌🌽🍇🥜🥔🍅🍚🍞
 
-### Abstract
+### Summary
 The purpose of this project is to provide a simple visualization of where the world's staple crops are grown. The popular crops I analyzed include: apples, avocados, 
 bananas, beans, cashews, cassava, cereals, cocoa, coffee, corn , grapes, oranges, potatoes, rice, soybeans, sugarcane, tomatoes, and wheat. I wanted to explore how 
 different regions around the world contributed to the global food supply, and how much has changed in the span of sixty years, between 1961 and 2018. In other words, 
